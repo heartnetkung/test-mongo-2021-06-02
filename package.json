@@ -1,0 +1,15 @@
+{
+  "name": "test-mongo-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-shutdown": "^1.2.2",
+    "mongoose": "^5.12.12"
+  },
+  "devDependencies": {
+    "jest": "^27.0.3",
+    "supertest": "^6.1.3"
+  }
+}
